@@ -1,1 +1,1 @@
-install.packages("ggplot2", "ISLR2")
+install.packages("ggplot2", "rsample")
